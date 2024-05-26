@@ -1,0 +1,24 @@
+/* Importing all components file */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+/* General style rules for fonts and colours */
+body {
+    font-family: 'Lora', sans-serif;
+    color: black;
+    font-size: 18px;
+    margin: auto;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    color: black;
+}
+a { 
+text-decoration:none;
+ }
